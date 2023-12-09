@@ -47,7 +47,7 @@
         >
             <div class="col-auto text-gray-500 font-weight-light">
                 2021 Copyright TravelKu • All rights reserved • Design
-                By Dimas Pondra Oktafianto
+                By Muhammad Ridho 
             </div>
         </div>
     </div>
