@@ -14,7 +14,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/DimasPondra/travel.git
+  gh repo clone pars1vale/Travel-Agency-Laravel
 ```
 
 Go to the project directory
